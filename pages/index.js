@@ -10,8 +10,10 @@ export default function Home() {
       </Head>
       
       <BackgroundLayout>
-        <div>
-          <h1 className="text-lg py-112 leading-10">ropera aan de maas presenteerd</h1>
+        <div className="home-page">
+          <section className="h-screen flex items-end">
+            <h1 className="text-lg my-4 leading-10">ropera aan de maas presenteerd</h1>
+          </section>
         </div>
       </BackgroundLayout>
     </>

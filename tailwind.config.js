@@ -23,6 +23,7 @@ module.exports = {
         '96': '24rem',
         '112': '28rem',
         'full': '100%',
+        '80vh': '80vh',
       },
       zIndex: {
         'neg-10': -10,
