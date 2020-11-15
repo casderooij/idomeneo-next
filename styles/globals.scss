@@ -6,15 +6,11 @@
 
 body {
   font-family: 'Bizmeud', sans-serif;
+  background-color: #000000;
 }
 
-h1 {
-  // -webkit-text-fill-color: transparent;
-  // -webkit-text-stroke-width: 1px;
-  // -webkit-text-stroke-color: white;
-}
-
-
-.home-page {
-  height: 200vh;
+.text-outline {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
 }

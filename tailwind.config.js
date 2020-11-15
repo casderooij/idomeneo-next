@@ -16,8 +16,8 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        'lg': '4rem',
-        'xl': '6rem',
+        'lg': ['4rem', '2.2rem'],
+        'xl': ['6rem', '3.2rem'],
       },
       spacing: {
         '96': '24rem',
