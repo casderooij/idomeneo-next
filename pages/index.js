@@ -25,9 +25,11 @@ export default function Home() {
         <div className="home-page">
           <Div100vh className="flex items-end">
 
-            <h1 className="text-xl mb-8">
-              <span className="text-outline block text-lg">
-                ropera aan de maas<br />presenteerd
+            <h1 className="text-lg mb-4">
+              <span className="text-outline block">
+                ropera
+                <br />aan de maas
+                <br />presenteerd
               </span>
               idomeneo
             </h1>
